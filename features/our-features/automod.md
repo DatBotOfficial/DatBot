@@ -62,7 +62,7 @@ This feature is new and in beta.
 
 * Removes the logging channel.
 
-`/automod nicknames removename [name] [type]`
+`/automod nicknames removename`` `<mark style="color:purple;">`[name]`</mark><mark style="color:orange;">`[type]`</mark>
 
 * Removes a provided <mark style="color:purple;">name</mark> from the filter.&#x20;
 * Argument <mark style="color:purple;">\[name]</mark>
