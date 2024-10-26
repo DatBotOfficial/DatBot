@@ -6,6 +6,7 @@
 ## Features
 
 * [✨ Features](overview/our-features.md)
+  * [🤖 Automod](features/our-features/automod.md)
   * [➕ Autorole](features/our-features/autorole.md)
   * [📣 Autopublish](features/our-features/autopublish.md)
   * [⚙️ Confugration](features/our-features/confugration.md)
