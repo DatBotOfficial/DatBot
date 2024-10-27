@@ -27,7 +27,9 @@ See ya :smile:
 
 <summary>Voroniyx - Developer</summary>
 
-Discord: voroniyx (863453422632173568)
+Hey ho
+
+I'm Voroniyx, have known Gamet since April 2023, have been using DatBot since the end of 2023 and have been a developer on the DatBot team since mid-October '24. When I'm not working on DatBot, I have my own small projects or play something. I try to help here and if you ever see me on the support server dont be to shy and say hello.
 
 </details>
 
