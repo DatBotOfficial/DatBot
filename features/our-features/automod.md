@@ -1,6 +1,17 @@
 ---
-description: Automod is a new feature added on October 26, 2024.
 icon: lightbulb
+description: Automod is a new feature added on October 26, 2024.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Automod

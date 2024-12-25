@@ -1,5 +1,16 @@
 ---
 icon: circle-chevron-right
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Getting started
@@ -8,10 +19,6 @@ icon: circle-chevron-right
 
 * Need more help? <mark style="color:yellow;">Join</mark> the [support server](https://discord.gg/BQumAujuvk)
 * Add Dat Bot [here](https://discord.com/api/oauth2/authorize?client_id=965903240384376872\&permissions=274878295233\&scope=bot%20applications.commands)
-
-### <mark style="color:red;">News</mark>
-
-* New Feature: [automod.md](features/our-features/automod.md "mention")
 
 ### <mark style="color:red;">Meet the Team</mark>
 
