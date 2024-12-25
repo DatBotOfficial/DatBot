@@ -1,8 +1,9 @@
 ---
 description: Adds provided roles to new members, who join the server. Bots are excluded.
+icon: plus
 ---
 
-# ➕ Autorole
+# Autorole
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-08 211739.png" alt="" width="383"><figcaption><p>Response when executing the /autoroles command. Taken on February 08th, 2024.</p></figcaption></figure>
 

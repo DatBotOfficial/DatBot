@@ -1,4 +1,8 @@
-# 💡 Troubleshooting
+---
+icon: lightbulb-exclamation-on
+---
+
+# Troubleshooting
 
 {% hint style="info" %}
 If you need help, join the support server: [https://discord.com/invite/BQumAujuvk](https://discord.com/invite/BQumAujuvk)

@@ -2,9 +2,10 @@
 description: >-
   Dat Bot supports some games: Fortnite, Clash of Clans, Brawl Stars and
   VALORANT. You can also play TicTacToe with this command.
+icon: gamepad-modern
 ---
 
-# 🎮 Games
+# Games
 
 ### Possibilities
 

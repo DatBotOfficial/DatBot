@@ -1,4 +1,8 @@
-# ⚙️ Confugration
+---
+icon: gear
+---
+
+# Confugration
 
 ### Server
 

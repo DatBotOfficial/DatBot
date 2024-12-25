@@ -1,4 +1,8 @@
-# 👋 Welcome & Leave
+---
+icon: hand-wave
+---
+
+# Welcome & Leave
 
 {% hint style="info" %}
 The structures of Welcome & Leave are very similar.
@@ -10,15 +14,7 @@ The term "news" is often used. This refers to the messages that are sent when a 
 
 
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-10 010848.png" alt=""><figcaption><p>This is what the message that greets users looks like. Recorded on February 10, 2024.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-10 011129.png" alt=""><figcaption><p>This is what the message looks like when someone leaves. Recorded on February 10, 2024.</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2024-02-10 010848.png" alt=""><figcaption><p>This is what the message that greets users looks like. Recorded on February 10, 2024.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2024-02-10 011129.png" alt=""><figcaption><p>This is what the message looks like when someone leaves. Recorded on February 10, 2024.</p></figcaption></figure></div>
 
 ### Overlap
 

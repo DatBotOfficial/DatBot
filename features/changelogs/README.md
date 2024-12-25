@@ -1,2 +1,6 @@
-# 📚 Changelogs
+---
+icon: book-blank
+---
+
+# Changelogs
 

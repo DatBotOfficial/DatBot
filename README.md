@@ -1,9 +1,13 @@
-# ✨ Getting started
+---
+icon: circle-chevron-right
+---
+
+# Getting started
 
 ### <mark style="color:red;">Additional Information</mark>
 
 * Need more help? <mark style="color:yellow;">Join</mark> the [support server](https://discord.gg/BQumAujuvk)
-* Add Dat Bot [here](https://discord.com/api/oauth2/authorize?client\_id=965903240384376872\&permissions=274878295233\&scope=bot%20applications.commands)
+* Add Dat Bot [here](https://discord.com/api/oauth2/authorize?client_id=965903240384376872\&permissions=274878295233\&scope=bot%20applications.commands)
 
 ### <mark style="color:red;">News</mark>
 

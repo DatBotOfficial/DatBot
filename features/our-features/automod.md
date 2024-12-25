@@ -1,8 +1,9 @@
 ---
 description: Automod is a new feature added on October 26, 2024.
+icon: lightbulb
 ---
 
-# 🤖 Automod
+# Automod
 
 {% hint style="info" %}
 This feature is new and in beta.

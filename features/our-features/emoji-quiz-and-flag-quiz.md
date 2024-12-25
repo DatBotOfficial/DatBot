@@ -1,4 +1,8 @@
-# 🌍 Emoji quiz & Flag quiz
+---
+icon: earth-africa
+---
+
+# Emoji quiz & Flag quiz
 
 {% hint style="info" %}
 The emoji quiz and flag quiz work very similarly. Many functions and commands will have a very similar structure.

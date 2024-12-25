@@ -1,4 +1,8 @@
-# 🆙 Level
+---
+icon: circle-chevron-up
+---
+
+# Level
 
 ### How does it work?
 

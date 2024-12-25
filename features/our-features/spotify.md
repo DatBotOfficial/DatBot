@@ -1,4 +1,8 @@
-# 🎵 Spotify
+---
+icon: music
+---
+
+# Spotify
 
 ### Commands
 

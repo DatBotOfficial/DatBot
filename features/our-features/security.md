@@ -1,4 +1,8 @@
-# 🛡 Security
+---
+icon: shield-check
+---
+
+# Security
 
 ### Commands
 

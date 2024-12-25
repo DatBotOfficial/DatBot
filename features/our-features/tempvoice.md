@@ -3,9 +3,10 @@ description: >-
   The system was released on February 26, 2024 and has been in the open beta
   phase since March 5, 2024. Manage your own temporary voice channels. Secure,
   modern, with many features.
+icon: volume-high
 ---
 
-# 🔊 TempVoice
+# TempVoice
 
 
 

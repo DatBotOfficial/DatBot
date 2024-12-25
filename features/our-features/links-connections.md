@@ -1,8 +1,9 @@
 ---
 description: Link your accounts to Dat Bot
+icon: link
 ---
 
-# 🖇️ Links / Connections
+# Links / Connections
 
 You can connect your Clash of Clans account and your Valorant account to Dat Bot.
 

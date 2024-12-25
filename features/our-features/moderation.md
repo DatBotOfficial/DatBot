@@ -1,4 +1,8 @@
-# ⚙️ Moderation
+---
+icon: gavel
+---
+
+# Moderation
 
 ## Commands
 

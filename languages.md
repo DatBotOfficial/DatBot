@@ -1,4 +1,8 @@
-# 🌍 Languages
+---
+icon: globe
+---
+
+# Languages
 
 ## Do you know any languages that are not German, English or Italian?
 

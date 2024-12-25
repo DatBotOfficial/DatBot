@@ -1,4 +1,8 @@
-# 😂 Fun
+---
+icon: circle-dot
+---
+
+# Fun
 
 
 

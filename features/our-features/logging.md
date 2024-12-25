@@ -1,4 +1,8 @@
-# 📚 Logging
+---
+icon: book-copy
+---
+
+# Logging
 
 ### Information
 

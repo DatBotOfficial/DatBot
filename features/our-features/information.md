@@ -1,4 +1,8 @@
-# ℹ️ Information
+---
+icon: info
+---
+
+# Information
 
 *   `/avatar user <user>`
 

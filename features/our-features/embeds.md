@@ -1,8 +1,9 @@
 ---
 description: Create your own embeds, manage the embeds and more.
+icon: bars
 ---
 
-# 🎨 Embeds
+# Embeds
 
 ### Information
 

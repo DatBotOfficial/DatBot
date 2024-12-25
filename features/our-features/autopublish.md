@@ -1,8 +1,9 @@
 ---
 description: Autopublish is used to publish messages automatically.
+icon: bullhorn
 ---
 
-# 📣 Autopublish
+# Autopublish
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-01 101543.png" alt=""><figcaption><p>The available commands for the feature.</p></figcaption></figure>
 

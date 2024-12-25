@@ -1,4 +1,8 @@
-# 📺 Twitch
+---
+icon: twitch
+---
+
+# Twitch
 
 ### Commands
 
