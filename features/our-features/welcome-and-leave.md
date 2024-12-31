@@ -8,9 +8,13 @@ icon: hand-wave
 The structures of Welcome & Leave are very similar.
 {% endhint %}
 
-{% hint style="info" %}
-The term "news" is often used. This refers to the messages that are sent when a user joins or leaves.
+{% hint style="warning" %}
+The system is getting reworked and will change very soon.
+
+Last updated: Dec. 31, 2024
 {% endhint %}
+
+
 
 
 

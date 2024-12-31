@@ -16,10 +16,6 @@ layout:
 
 # Automod
 
-{% hint style="info" %}
-This feature is new and in beta.
-{% endhint %}
-
 ### Information
 
 #### Nickname Automod
