@@ -1,11 +1,23 @@
 ---
+icon: gamepad-modern
 description: >-
   Dat Bot supports some games: Fortnite, Clash of Clans, Brawl Stars and
   VALORANT. You can also play TicTacToe with this command.
-icon: gamepad-modern
 ---
 
 # Games
+
+{% hint style="warning" %}
+The command `/games valorant matchhistory` got an update on December 31st, 2024.
+
+* New design, support for Regen Shield and Vyse and bug fixes.
+{% endhint %}
+
+<div><figure><img src="../../.gitbook/assets/Screenshot 2024-12-31 165116.png" alt=""><figcaption><p>Old design of Players &#x26; Queues screen</p></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2024-12-31 154911.png" alt=""><figcaption><p>New design of Players &#x26; Queues screen</p></figcaption></figure></div>
+
+
+
+
 
 ### Possibilities
 
@@ -99,9 +111,9 @@ icon: gamepad-modern
   * Argument \[map]
     * This is the name of the map.
     * &#x20;This option supports autocomplete. Suggestions are made to you.
-* \[NEW] `/games valorant matchhistory`
+* `/games valorant matchhistory`
   * The matches in your match history are displayed here. You can select one and get information about this match.
-* \[NEW] `/games valorant rank <riot_name>`
+* `/games valorant rank <riot_name>`
   * Get the all-time rank and the current rank of a player.
   * Argument \<riot\_name>
     * If you have linked your account, you do not have to enter this argument.
