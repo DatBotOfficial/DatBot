@@ -1,8 +1,8 @@
-*Privacy Policy can be found here: https://github.com/DatGamet/DatBot/blob/main/privacy-policy.txt*
+*Privacy Policy can be found here: https://github.com/DatBotOfficial/DatBot/blob/main/privacy-policy.txt*
 
 The following explains the terms of service/use for the Discord bot Dat Bot#4582 (ID: 965903240384376872).
 
-The bot is mainly developed by d_gamet. He is responsible for the administration and maintenance.
+The bot is mainly developed by d_gamet and voroniyx. They are responsible for the administration and maintenance.
 
 What is offered?
 Dat Bot is an . It is constantly being developed and improved.
