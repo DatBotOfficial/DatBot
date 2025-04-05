@@ -1,4 +1,4 @@
-Last update: May 20, 2024
+Last update: April 05, 2025
 
 What data are we storing?
 - Discord Account related information and server related information.
@@ -17,7 +17,7 @@ How will we use your data?
 
 Who we share any data with
 - We do not sell data.
-- Only the developer and masuowo (Discord ID: 223109865197928448) team can access the data.
+- Only the developers D_Gamet (754246997266923571) and Voroniyx (863453422632173568) team can access the data.
 
 Where is the data stored?
 - The data is stored at a private host which is provided by masuowo (Discord ID: 223109865197928448) / https://masuowo.xyz/.
@@ -39,4 +39,4 @@ Your rights
 
 Contact:
 - Support Server: https://discord.gg/BQumAujuvk.
-- Direct Message (Discord): d_gamet.
+- Direct Message (Discord): d_gamet or voroniyx.
